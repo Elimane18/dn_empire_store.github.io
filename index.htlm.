@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>8
+<meta charset="UTF-8">
+<title>D&N Empire Store</title>
+<style>
+body { font-family: Arial; background: #f2f2f2; margin: 0; padding: 0; }
+header { background: black; color: white; text-align: center; padding: 40px; }
+main { padding: 20px; }
+.produit { background: white; padding: 20px; margin-bottom: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+img { width: 100%; max-width: 200px; }
+.btn { display: inline-block; margin-top: 10px; padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; }
+</style>
+</head>
+<body>
+<header>
+<h1>D&N Empire Store</h1>
+<p>Vêtements et sneakers à petits prix</p>
+</header>
+<main>
+<div class="produit">
+<img src="https://static.nike.com/a/images/t_default/9a7dd5f6-6a95-4e59-9392-3e391caa88ab/air-force-1-07-shoes-L7hZrF.png" alt="Air Force 1">
+<h2>Nike Air Force 1</h2>
+<p>Prix : 110 €</p>
+<p>État : Neuf</p>
+<a class="btn" href="https://wa.me/33612345678" target="_blank">Me contacter</a>
+</div>
+</main>
+</body>
+</html>
